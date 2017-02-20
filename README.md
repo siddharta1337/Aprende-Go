@@ -24,5 +24,5 @@ En windows, debes crear una carpeta dedicada a go, (ej: "C:\configuracion") y as
 
 Puedes contactarme en mis redes sociales
 
-Facebook: https://www.facebook.com/carlos.solis1337
-Youtube: www.youtube.com/user/RevolucionMobi?
+- Facebook: https://www.facebook.com/carlos.solis1337
+- Youtube: www.youtube.com/user/RevolucionMobi?
