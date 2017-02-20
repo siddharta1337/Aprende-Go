@@ -1,0 +1,3 @@
+Este documento se manupula desde:
+- escribir.go
+- leer.go
