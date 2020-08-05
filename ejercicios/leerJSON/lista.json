@@ -1,0 +1,8 @@
+{
+  "paises": [
+    { "NOMBRE": "Costa Rica", "POBLACION": 5137000, "ISLA": "no" ,"SUPERFICIE": 51100 },
+    { "NOMBRE": "Puerto Rico", "POBLACION": 3615086, "ISLA": "si" ,"SUPERFICIE": 9104 },
+    { "NOMBRE": "Corea del Sur", "POBLACION": 51635000, "ISLA": "no" ,"SUPERFICIE": 100339 },
+    { "NOMBRE": "Japón", "POBLACION": 126529100, "ISLA": "si" ,"SUPERFICIE": 377970 }
+  ]
+}

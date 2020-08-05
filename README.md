@@ -4,20 +4,22 @@ Go es un lenguaje de código abierto con el respaldo de Google, es sencillo de a
 ## Herramientas necesarias
 
 Para este proyecto necesitarás:
-- Un editor de código (Sublime Text, Visual Studio Code o Atom son recomendados)
+- Un editor de código ( Visual Studio Code, Jetbrains Goland o Atom son recomendados)
 - Acceso a la terminal de sistema
 - Go instalado en tu ordenador
 
 ## Instalación
 Debes instalar Go en tu ordenador, puedes [descargarlo desde el sitio oficial](https://golang.org/dl/).
 
-Si usas Visual Sudio Code, puedes usar los archivos de configuración incluidos en este repositorio, no olvides modificar "go.goroot" y "go.gopath" según la configuración de tu equipo.
+Si usas Visual Sudio Code, puedes usar los archivos de configuración incluidos en este repositorio y pegarlos en la carpeta `.vscode` en la raíz de tu proyecto.
 
-En windows, debes crear una carpeta dedicada a go, (ej: "C:\configuracion") y asignarla desde las variables del sistema al valor GOPATH
+Después de insalar Go, verifica que las variables GOPATH y GOROOT estan configuradas ejecutando el comando `go env`
+
+Puedes encontrar aqui el [Plugin oficial de Go para Visual studio code](https://marketplace.visualstudio.com/items?itemName=golang.Go)
 
 ### Descripción de carpetas
 - *archivos de configuracion* contiene un ejemplo de configuración pra visual studio code.
-- *ejercicios* contiene las aolicaciones creadas durante el curso.
+- *ejercicios* contiene las aplicaciones creadas durante el curso.
 
 
 ## Más información
@@ -25,4 +27,4 @@ En windows, debes crear una carpeta dedicada a go, (ej: "C:\configuracion") y as
 Puedes contactarme en mis redes sociales
 
 - Facebook: https://www.facebook.com/carlos.solis1337
-- Youtube: www.youtube.com/user/RevolucionMobi?
+- LinkedIn: https://www.linkedin.com/learning/instructors/carlos-solis
